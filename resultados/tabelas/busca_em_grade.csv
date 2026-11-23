@@ -1,0 +1,225 @@
+modelo;treino;parametros;parada;n;mae;rmse;r2;mae_sem_troca;negativos;segundos;semente
+random_forest;dias;{'max_depth': 20, 'max_features': 'sqrt', 'max_samples': None, 'min_samples_leaf': 1, 'n_estimators': 300};;25576;4,18;8,2413;0,2728;4,18;0;5;42
+random_forest;dias;{'max_depth': 20, 'max_features': 'sqrt', 'max_samples': None, 'min_samples_leaf': 2, 'n_estimators': 300};;25576;4,1897;8,1472;0,2893;4,1897;0;5;42
+random_forest;dias;{'max_depth': 20, 'max_features': 'sqrt', 'max_samples': 0.5, 'min_samples_leaf': 1, 'n_estimators': 300};;25576;4,1695;8,1951;0,2809;4,1695;0;3;42
+random_forest;dias;{'max_depth': 20, 'max_features': 'sqrt', 'max_samples': 0.5, 'min_samples_leaf': 2, 'n_estimators': 300};;25576;4,1913;8,1796;0,2836;4,1913;0;3;42
+random_forest;dias;{'max_depth': 20, 'max_features': 0.1, 'max_samples': None, 'min_samples_leaf': 1, 'n_estimators': 300};;25576;4,011;8,2029;0,2795;4,011;0;12;42
+random_forest;dias;{'max_depth': 20, 'max_features': 0.1, 'max_samples': None, 'min_samples_leaf': 2, 'n_estimators': 300};;25576;4,001;8,0987;0,2977;4,001;0;12;42
+random_forest;dias;{'max_depth': 20, 'max_features': 0.1, 'max_samples': 0.5, 'min_samples_leaf': 1, 'n_estimators': 300};;25576;4,0152;8,1723;0,2849;4,0152;0;7;42
+random_forest;dias;{'max_depth': 20, 'max_features': 0.1, 'max_samples': 0.5, 'min_samples_leaf': 2, 'n_estimators': 300};;25576;4,0066;8,1058;0,2965;4,0066;0;7;42
+random_forest;dias;{'max_depth': 20, 'max_features': 0.33, 'max_samples': None, 'min_samples_leaf': 1, 'n_estimators': 300};;25576;3,9918;8,3034;0,2618;3,9918;0;30;42
+random_forest;dias;{'max_depth': 20, 'max_features': 0.33, 'max_samples': None, 'min_samples_leaf': 2, 'n_estimators': 300};;25576;3,97;8,1583;0,2873;3,97;0;30;42
+random_forest;dias;{'max_depth': 20, 'max_features': 0.33, 'max_samples': 0.5, 'min_samples_leaf': 1, 'n_estimators': 300};;25576;3,9885;8,2678;0,2681;3,9885;0;17;42
+random_forest;dias;{'max_depth': 20, 'max_features': 0.33, 'max_samples': 0.5, 'min_samples_leaf': 2, 'n_estimators': 300};;25576;3,9717;8,1631;0,2865;3,9717;0;17;42
+random_forest;dias;{'max_depth': None, 'max_features': 'sqrt', 'max_samples': None, 'min_samples_leaf': 1, 'n_estimators': 300};;25576;3,8308;8,2259;0,2755;3,8308;0;9;42
+random_forest;dias;{'max_depth': None, 'max_features': 'sqrt', 'max_samples': None, 'min_samples_leaf': 2, 'n_estimators': 300};;25576;3,8477;7,9725;0,3194;3,8477;0;8;42
+random_forest;dias;{'max_depth': None, 'max_features': 'sqrt', 'max_samples': 0.5, 'min_samples_leaf': 1, 'n_estimators': 300};;25576;3,8101;8,0758;0,3017;3,8101;0;5;42
+random_forest;dias;{'max_depth': None, 'max_features': 'sqrt', 'max_samples': 0.5, 'min_samples_leaf': 2, 'n_estimators': 300};;25576;3,8796;7,9888;0,3166;3,8796;0;4;42
+random_forest;dias;{'max_depth': None, 'max_features': 0.1, 'max_samples': None, 'min_samples_leaf': 1, 'n_estimators': 300};;25576;3,8128;8,2038;0,2794;3,8128;0;16;42
+random_forest;dias;{'max_depth': None, 'max_features': 0.1, 'max_samples': None, 'min_samples_leaf': 2, 'n_estimators': 300};;25576;3,8047;8,0143;0,3123;3,8047;0;15;42
+random_forest;dias;{'max_depth': None, 'max_features': 0.1, 'max_samples': 0.5, 'min_samples_leaf': 1, 'n_estimators': 300};;25576;3,7891;8,1479;0,2891;3,7891;0;9;42
+random_forest;dias;{'max_depth': None, 'max_features': 0.1, 'max_samples': 0.5, 'min_samples_leaf': 2, 'n_estimators': 300};;25576;3,8205;8,0103;0,313;3,8205;0;8;42
+random_forest;dias;{'max_depth': None, 'max_features': 0.33, 'max_samples': None, 'min_samples_leaf': 1, 'n_estimators': 300};;25576;3,8626;8,3189;0,259;3,8626;0;40;42
+random_forest;dias;{'max_depth': None, 'max_features': 0.33, 'max_samples': None, 'min_samples_leaf': 2, 'n_estimators': 300};;25576;3,8615;8,1616;0,2868;3,8615;0;37;42
+random_forest;dias;{'max_depth': None, 'max_features': 0.33, 'max_samples': 0.5, 'min_samples_leaf': 1, 'n_estimators': 300};;25576;3,8155;8,2446;0,2722;3,8155;0;22;42
+random_forest;dias;{'max_depth': None, 'max_features': 0.33, 'max_samples': 0.5, 'min_samples_leaf': 2, 'n_estimators': 300};;25576;3,8494;8,1088;0,296;3,8494;0;20;42
+xgboost;dias;{'colsample_bytree': 0.3, 'learning_rate': 0.05, 'max_depth': 6, 'min_child_weight': 1, 'subsample': 1.0};1203;25576;3,9001;8,2494;0,2713;3,9029;148;12;42
+xgboost;dias;{'colsample_bytree': 0.3, 'learning_rate': 0.05, 'max_depth': 6, 'min_child_weight': 5, 'subsample': 1.0};624;25576;3,943;8,1961;0,2807;3,9443;85;6;42
+xgboost;dias;{'colsample_bytree': 0.3, 'learning_rate': 0.05, 'max_depth': 9, 'min_child_weight': 1, 'subsample': 1.0};780;25576;3,9106;8,394;0,2456;3,9131;143;9;42
+xgboost;dias;{'colsample_bytree': 0.3, 'learning_rate': 0.05, 'max_depth': 9, 'min_child_weight': 5, 'subsample': 1.0};779;25576;3,8892;8,301;0,2622;3,8922;173;8;42
+xgboost;dias;{'colsample_bytree': 0.3, 'learning_rate': 0.1, 'max_depth': 6, 'min_child_weight': 1, 'subsample': 1.0};733;25576;3,9074;8,3326;0,2566;3,9107;155;7;42
+xgboost;dias;{'colsample_bytree': 0.3, 'learning_rate': 0.1, 'max_depth': 6, 'min_child_weight': 5, 'subsample': 1.0};525;25576;3,9155;8,2685;0,268;3,9175;134;5;42
+xgboost;dias;{'colsample_bytree': 0.3, 'learning_rate': 0.1, 'max_depth': 9, 'min_child_weight': 1, 'subsample': 1.0};498;25576;3,9074;8,4371;0,2378;3,9104;163;5;42
+xgboost;dias;{'colsample_bytree': 0.3, 'learning_rate': 0.1, 'max_depth': 9, 'min_child_weight': 5, 'subsample': 1.0};336;25576;3,9123;8,3547;0,2526;3,9148;149;4;42
+xgboost;dias;{'colsample_bytree': 0.5, 'learning_rate': 0.05, 'max_depth': 6, 'min_child_weight': 1, 'subsample': 1.0};1024;25576;3,9134;8,3038;0,2617;3,9153;122;10;42
+xgboost;dias;{'colsample_bytree': 0.5, 'learning_rate': 0.05, 'max_depth': 6, 'min_child_weight': 5, 'subsample': 1.0};1027;25576;3,8886;8,1577;0,2874;3,8903;122;10;42
+xgboost;dias;{'colsample_bytree': 0.5, 'learning_rate': 0.05, 'max_depth': 9, 'min_child_weight': 1, 'subsample': 1.0};880;25576;3,9158;8,5075;0,225;3,9174;122;9;42
+xgboost;dias;{'colsample_bytree': 0.5, 'learning_rate': 0.05, 'max_depth': 9, 'min_child_weight': 5, 'subsample': 1.0};749;25576;3,893;8,3066;0,2612;3,8949;128;8;42
+xgboost;dias;{'colsample_bytree': 0.5, 'learning_rate': 0.1, 'max_depth': 6, 'min_child_weight': 1, 'subsample': 1.0};488;25576;3,9188;8,31;0,2606;3,9204;114;5;42
+xgboost;dias;{'colsample_bytree': 0.5, 'learning_rate': 0.1, 'max_depth': 6, 'min_child_weight': 5, 'subsample': 1.0};647;25576;3,8981;8,2959;0,2631;3,901;158;7;42
+xgboost;dias;{'colsample_bytree': 0.5, 'learning_rate': 0.1, 'max_depth': 9, 'min_child_weight': 1, 'subsample': 1.0};432;25576;3,9233;8,5975;0,2085;3,9253;136;5;42
+xgboost;dias;{'colsample_bytree': 0.5, 'learning_rate': 0.1, 'max_depth': 9, 'min_child_weight': 5, 'subsample': 1.0};409;25576;3,9076;8,434;0,2384;3,91;143;5;42
+xgboost;dias;{'colsample_bytree': 0.8, 'learning_rate': 0.05, 'max_depth': 6, 'min_child_weight': 1, 'subsample': 1.0};965;25576;3,9216;8,3332;0,2565;3,9228;100;9;42
+xgboost;dias;{'colsample_bytree': 0.8, 'learning_rate': 0.05, 'max_depth': 6, 'min_child_weight': 5, 'subsample': 1.0};1077;25576;3,896;8,2095;0,2784;3,8977;121;10;42
+xgboost;dias;{'colsample_bytree': 0.8, 'learning_rate': 0.05, 'max_depth': 9, 'min_child_weight': 1, 'subsample': 1.0};614;25576;3,9423;8,6155;0,2052;3,9429;61;7;42
+xgboost;dias;{'colsample_bytree': 0.8, 'learning_rate': 0.05, 'max_depth': 9, 'min_child_weight': 5, 'subsample': 1.0};658;25576;3,8965;8,4104;0,2426;3,898;92;7;42
+xgboost;dias;{'colsample_bytree': 0.8, 'learning_rate': 0.1, 'max_depth': 6, 'min_child_weight': 1, 'subsample': 1.0};396;25576;3,9474;8,4039;0,2438;3,9483;80;4;42
+xgboost;dias;{'colsample_bytree': 0.8, 'learning_rate': 0.1, 'max_depth': 6, 'min_child_weight': 5, 'subsample': 1.0};525;25576;3,9003;8,3091;0,2608;3,9023;114;5;42
+xgboost;dias;{'colsample_bytree': 0.8, 'learning_rate': 0.1, 'max_depth': 9, 'min_child_weight': 1, 'subsample': 1.0};304;25576;3,9358;8,6073;0,2067;3,9367;75;4;42
+xgboost;dias;{'colsample_bytree': 0.8, 'learning_rate': 0.1, 'max_depth': 9, 'min_child_weight': 5, 'subsample': 1.0};410;25576;3,8907;8,4224;0,2404;3,894;154;5;42
+mlp;dias;{'activation': 'relu', 'alpha': 0.01, 'hidden_layer_sizes': (64,), 'learning_rate_init': 0.001, 'relu_na_saida': False};11;25576;3,8164;8,0476;0,3065;3,8307;586;12;42
+mlp;dias;{'activation': 'relu', 'alpha': 0.01, 'hidden_layer_sizes': (64,), 'learning_rate_init': 0.001, 'relu_na_saida': True};11;25576;3,8108;8,0483;0,3064;3,8108;0;12;42
+mlp;dias;{'activation': 'relu', 'alpha': 0.01, 'hidden_layer_sizes': (64,), 'learning_rate_init': 0.0001, 'relu_na_saida': False};133;25576;3,8563;8,0949;0,2984;3,8709;575;58;42
+mlp;dias;{'activation': 'relu', 'alpha': 0.01, 'hidden_layer_sizes': (64,), 'learning_rate_init': 0.0001, 'relu_na_saida': True};133;25576;3,8694;8,1025;0,2971;3,8694;0;58;42
+mlp;dias;{'activation': 'relu', 'alpha': 0.01, 'hidden_layer_sizes': (128, 64), 'learning_rate_init': 0.001, 'relu_na_saida': False};11;25576;3,7493;8,0166;0,3119;3,7562;556;18;42
+mlp;dias;{'activation': 'relu', 'alpha': 0.01, 'hidden_layer_sizes': (128, 64), 'learning_rate_init': 0.001, 'relu_na_saida': True};5;25576;3,7553;7,9459;0,324;3,7553;0;15;42
+mlp;dias;{'activation': 'relu', 'alpha': 0.01, 'hidden_layer_sizes': (128, 64), 'learning_rate_init': 0.0001, 'relu_na_saida': False};21;25576;3,8533;8,0624;0,304;3,868;679;24;42
+mlp;dias;{'activation': 'relu', 'alpha': 0.01, 'hidden_layer_sizes': (128, 64), 'learning_rate_init': 0.0001, 'relu_na_saida': True};21;25576;3,8561;8,067;0,3032;3,8561;0;23;42
+mlp;dias;{'activation': 'relu', 'alpha': 0.1, 'hidden_layer_sizes': (64,), 'learning_rate_init': 0.001, 'relu_na_saida': False};11;25576;3,8059;8,041;0,3077;3,819;570;12;42
+mlp;dias;{'activation': 'relu', 'alpha': 0.1, 'hidden_layer_sizes': (64,), 'learning_rate_init': 0.001, 'relu_na_saida': True};11;25576;3,8058;8,0452;0,307;3,8058;0;12;42
+mlp;dias;{'activation': 'relu', 'alpha': 0.1, 'hidden_layer_sizes': (64,), 'learning_rate_init': 0.0001, 'relu_na_saida': False};133;25576;3,8556;8,0904;0,2992;3,8689;550;57;42
+mlp;dias;{'activation': 'relu', 'alpha': 0.1, 'hidden_layer_sizes': (64,), 'learning_rate_init': 0.0001, 'relu_na_saida': True};133;25576;3,8644;8,0957;0,2982;3,8644;0;57;42
+mlp;dias;{'activation': 'relu', 'alpha': 0.1, 'hidden_layer_sizes': (128, 64), 'learning_rate_init': 0.001, 'relu_na_saida': False};11;25576;3,7594;8,0194;0,3114;3,7669;550;19;42
+mlp;dias;{'activation': 'relu', 'alpha': 0.1, 'hidden_layer_sizes': (128, 64), 'learning_rate_init': 0.001, 'relu_na_saida': True};5;25576;3,7622;7,9504;0,3232;3,7622;0;15;42
+mlp;dias;{'activation': 'relu', 'alpha': 0.1, 'hidden_layer_sizes': (128, 64), 'learning_rate_init': 0.0001, 'relu_na_saida': False};21;25576;3,8554;8,0644;0,3037;3,8698;668;24;42
+mlp;dias;{'activation': 'relu', 'alpha': 0.1, 'hidden_layer_sizes': (128, 64), 'learning_rate_init': 0.0001, 'relu_na_saida': True};45;25576;3,8476;8,1001;0,2975;3,8476;0;38;42
+mlp;dias;{'activation': 'relu', 'alpha': 1.0, 'hidden_layer_sizes': (64,), 'learning_rate_init': 0.001, 'relu_na_saida': False};26;25576;3,801;8,0489;0,3063;3,8187;667;17;42
+mlp;dias;{'activation': 'relu', 'alpha': 1.0, 'hidden_layer_sizes': (64,), 'learning_rate_init': 0.001, 'relu_na_saida': True};26;25576;3,7971;8,0543;0,3054;3,7971;0;17;42
+mlp;dias;{'activation': 'relu', 'alpha': 1.0, 'hidden_layer_sizes': (64,), 'learning_rate_init': 0.0001, 'relu_na_saida': False};133;25576;3,8607;8,0847;0,3001;3,8686;389;59;42
+mlp;dias;{'activation': 'relu', 'alpha': 1.0, 'hidden_layer_sizes': (64,), 'learning_rate_init': 0.0001, 'relu_na_saida': True};133;25576;3,8638;8,085;0,3001;3,8638;0;59;42
+mlp;dias;{'activation': 'relu', 'alpha': 1.0, 'hidden_layer_sizes': (128, 64), 'learning_rate_init': 0.001, 'relu_na_saida': False};11;25576;3,7214;7,9604;0,3215;3,7293;594;19;42
+mlp;dias;{'activation': 'relu', 'alpha': 1.0, 'hidden_layer_sizes': (128, 64), 'learning_rate_init': 0.001, 'relu_na_saida': True};11;25576;3,7377;7,9558;0,3223;3,7377;0;20;42
+mlp;dias;{'activation': 'relu', 'alpha': 1.0, 'hidden_layer_sizes': (128, 64), 'learning_rate_init': 0.0001, 'relu_na_saida': False};45;25576;3,8225;8,0756;0,3017;3,8454;907;42;42
+mlp;dias;{'activation': 'relu', 'alpha': 1.0, 'hidden_layer_sizes': (128, 64), 'learning_rate_init': 0.0001, 'relu_na_saida': True};45;25576;3,8257;8,0767;0,3015;3,8257;0;39;42
+mlp;dias;{'activation': 'relu', 'alpha': 3.0, 'hidden_layer_sizes': (64,), 'learning_rate_init': 0.001, 'relu_na_saida': False};43;25576;3,8023;8,0276;0,31;3,8077;240;24;42
+mlp;dias;{'activation': 'relu', 'alpha': 3.0, 'hidden_layer_sizes': (64,), 'learning_rate_init': 0.001, 'relu_na_saida': True};40;25576;3,7988;8,0529;0,3056;3,7988;0;23;42
+mlp;dias;{'activation': 'relu', 'alpha': 3.0, 'hidden_layer_sizes': (64,), 'learning_rate_init': 0.0001, 'relu_na_saida': False};133;25576;3,8783;8,0775;0,3014;3,8835;296;59;42
+mlp;dias;{'activation': 'relu', 'alpha': 3.0, 'hidden_layer_sizes': (64,), 'learning_rate_init': 0.0001, 'relu_na_saida': True};133;25576;3,8812;8,0781;0,3013;3,8812;0;59;42
+mlp;dias;{'activation': 'relu', 'alpha': 3.0, 'hidden_layer_sizes': (128, 64), 'learning_rate_init': 0.001, 'relu_na_saida': False};11;25576;3,698;7,9387;0,3252;3,7015;320;18;42
+mlp;dias;{'activation': 'relu', 'alpha': 3.0, 'hidden_layer_sizes': (128, 64), 'learning_rate_init': 0.001, 'relu_na_saida': True};11;25576;3,7119;7,9415;0,3247;3,7119;0;18;42
+mlp;dias;{'activation': 'relu', 'alpha': 3.0, 'hidden_layer_sizes': (128, 64), 'learning_rate_init': 0.0001, 'relu_na_saida': False};45;25576;3,8021;8,064;0,3037;3,8177;708;38;42
+mlp;dias;{'activation': 'relu', 'alpha': 3.0, 'hidden_layer_sizes': (128, 64), 'learning_rate_init': 0.0001, 'relu_na_saida': True};45;25576;3,8025;8,0614;0,3042;3,8025;0;38;42
+mlp;dias;{'activation': 'tanh', 'alpha': 0.01, 'hidden_layer_sizes': (64,), 'learning_rate_init': 0.001, 'relu_na_saida': False};26;25576;3,8267;8,0916;0,2989;3,8543;919;19;42
+mlp;dias;{'activation': 'tanh', 'alpha': 0.01, 'hidden_layer_sizes': (64,), 'learning_rate_init': 0.001, 'relu_na_saida': True};43;25576;3,8357;8,063;0,3039;3,8357;0;26;42
+mlp;dias;{'activation': 'tanh', 'alpha': 0.01, 'hidden_layer_sizes': (64,), 'learning_rate_init': 0.0001, 'relu_na_saida': False};92;25576;3,8999;8,0963;0,2981;3,9179;697;46;42
+mlp;dias;{'activation': 'tanh', 'alpha': 0.01, 'hidden_layer_sizes': (64,), 'learning_rate_init': 0.0001, 'relu_na_saida': True};92;25576;3,9027;8,1;0,2975;3,9027;0;46;42
+mlp;dias;{'activation': 'tanh', 'alpha': 0.01, 'hidden_layer_sizes': (128, 64), 'learning_rate_init': 0.001, 'relu_na_saida': False};11;25576;3,7099;8,0783;0,3012;3,7198;542;20;42
+mlp;dias;{'activation': 'tanh', 'alpha': 0.01, 'hidden_layer_sizes': (128, 64), 'learning_rate_init': 0.001, 'relu_na_saida': True};11;25576;3,7212;8,0855;0,3;3,7212;0;20;42
+mlp;dias;{'activation': 'tanh', 'alpha': 0.01, 'hidden_layer_sizes': (128, 64), 'learning_rate_init': 0.0001, 'relu_na_saida': False};55;25576;3,7784;8,1009;0,2973;3,7935;582;49;42
+mlp;dias;{'activation': 'tanh', 'alpha': 0.01, 'hidden_layer_sizes': (128, 64), 'learning_rate_init': 0.0001, 'relu_na_saida': True};55;25576;3,7934;8,109;0,2959;3,7934;0;49;42
+mlp;dias;{'activation': 'tanh', 'alpha': 0.1, 'hidden_layer_sizes': (64,), 'learning_rate_init': 0.001, 'relu_na_saida': False};43;25576;3,8187;8,0456;0,3069;3,8362;712;26;42
+mlp;dias;{'activation': 'tanh', 'alpha': 0.1, 'hidden_layer_sizes': (64,), 'learning_rate_init': 0.001, 'relu_na_saida': True};43;25576;3,8242;8,0483;0,3064;3,8242;0;26;42
+mlp;dias;{'activation': 'tanh', 'alpha': 0.1, 'hidden_layer_sizes': (64,), 'learning_rate_init': 0.0001, 'relu_na_saida': False};92;25576;3,8991;8,0937;0,2986;3,916;671;46;42
+mlp;dias;{'activation': 'tanh', 'alpha': 0.1, 'hidden_layer_sizes': (64,), 'learning_rate_init': 0.0001, 'relu_na_saida': True};92;25576;3,9003;8,0959;0,2982;3,9003;0;46;42
+mlp;dias;{'activation': 'tanh', 'alpha': 0.1, 'hidden_layer_sizes': (128, 64), 'learning_rate_init': 0.001, 'relu_na_saida': False};11;25576;3,7163;8,0805;0,3009;3,7264;542;20;42
+mlp;dias;{'activation': 'tanh', 'alpha': 0.1, 'hidden_layer_sizes': (128, 64), 'learning_rate_init': 0.001, 'relu_na_saida': True};11;25576;3,7293;8,0863;0,2999;3,7293;0;20;42
+mlp;dias;{'activation': 'tanh', 'alpha': 0.1, 'hidden_layer_sizes': (128, 64), 'learning_rate_init': 0.0001, 'relu_na_saida': False};55;25576;3,7795;8,1018;0,2972;3,7946;586;49;42
+mlp;dias;{'activation': 'tanh', 'alpha': 0.1, 'hidden_layer_sizes': (128, 64), 'learning_rate_init': 0.0001, 'relu_na_saida': True};55;25576;3,7943;8,1097;0,2958;3,7943;0;49;42
+mlp;dias;{'activation': 'tanh', 'alpha': 1.0, 'hidden_layer_sizes': (64,), 'learning_rate_init': 0.001, 'relu_na_saida': False};68;25576;3,8133;8,0425;0,3074;3,8556;1327;36;42
+mlp;dias;{'activation': 'tanh', 'alpha': 1.0, 'hidden_layer_sizes': (64,), 'learning_rate_init': 0.001, 'relu_na_saida': True};43;25576;3,8261;8,032;0,3092;3,8261;0;26;42
+mlp;dias;{'activation': 'tanh', 'alpha': 1.0, 'hidden_layer_sizes': (64,), 'learning_rate_init': 0.0001, 'relu_na_saida': False};92;25576;3,9076;8,0868;0,2998;3,9201;563;46;42
+mlp;dias;{'activation': 'tanh', 'alpha': 1.0, 'hidden_layer_sizes': (64,), 'learning_rate_init': 0.0001, 'relu_na_saida': True};92;25576;3,9041;8,0858;0,2999;3,9041;0;47;42
+mlp;dias;{'activation': 'tanh', 'alpha': 1.0, 'hidden_layer_sizes': (128, 64), 'learning_rate_init': 0.001, 'relu_na_saida': False};8;25576;3,7479;8,0894;0,2993;3,7592;641;18;42
+mlp;dias;{'activation': 'tanh', 'alpha': 1.0, 'hidden_layer_sizes': (128, 64), 'learning_rate_init': 0.001, 'relu_na_saida': True};8;25576;3,7704;8,095;0,2984;3,7704;0;18;42
+mlp;dias;{'activation': 'tanh', 'alpha': 1.0, 'hidden_layer_sizes': (128, 64), 'learning_rate_init': 0.0001, 'relu_na_saida': False};55;25576;3,7935;8,1128;0,2953;3,8086;614;50;42
+mlp;dias;{'activation': 'tanh', 'alpha': 1.0, 'hidden_layer_sizes': (128, 64), 'learning_rate_init': 0.0001, 'relu_na_saida': True};45;25576;3,8066;8,1662;0,286;3,8066;0;43;42
+mlp;dias;{'activation': 'tanh', 'alpha': 3.0, 'hidden_layer_sizes': (64,), 'learning_rate_init': 0.001, 'relu_na_saida': False};26;25576;3,8507;8,1005;0,2974;3,876;886;19;42
+mlp;dias;{'activation': 'tanh', 'alpha': 3.0, 'hidden_layer_sizes': (64,), 'learning_rate_init': 0.001, 'relu_na_saida': True};26;25576;3,8642;8,1083;0,296;3,8642;0;19;42
+mlp;dias;{'activation': 'tanh', 'alpha': 3.0, 'hidden_layer_sizes': (64,), 'learning_rate_init': 0.0001, 'relu_na_saida': False};92;25576;3,9311;8,0906;0,2991;3,9401;461;46;42
+mlp;dias;{'activation': 'tanh', 'alpha': 3.0, 'hidden_layer_sizes': (64,), 'learning_rate_init': 0.0001, 'relu_na_saida': True};92;25576;3,9285;8,0896;0,2993;3,9285;0;46;42
+mlp;dias;{'activation': 'tanh', 'alpha': 3.0, 'hidden_layer_sizes': (128, 64), 'learning_rate_init': 0.001, 'relu_na_saida': False};8;25576;3,7907;8,1035;0,2969;3,8009;536;18;42
+mlp;dias;{'activation': 'tanh', 'alpha': 3.0, 'hidden_layer_sizes': (128, 64), 'learning_rate_init': 0.001, 'relu_na_saida': True};8;25576;3,7951;8,1138;0,2951;3,7951;0;18;42
+mlp;dias;{'activation': 'tanh', 'alpha': 3.0, 'hidden_layer_sizes': (128, 64), 'learning_rate_init': 0.0001, 'relu_na_saida': False};55;25576;3,8231;8,1294;0,2924;3,8394;636;49;42
+mlp;dias;{'activation': 'tanh', 'alpha': 3.0, 'hidden_layer_sizes': (128, 64), 'learning_rate_init': 0.0001, 'relu_na_saida': True};55;25576;3,827;8,1332;0,2917;3,827;0;49;42
+random_forest;log;{'max_depth': 20, 'max_features': 'sqrt', 'max_samples': None, 'min_samples_leaf': 1, 'n_estimators': 300};;25576;3,7255;8,784;0,1738;3,7255;0;5;42
+random_forest;log;{'max_depth': 20, 'max_features': 'sqrt', 'max_samples': None, 'min_samples_leaf': 2, 'n_estimators': 300};;25576;3,7391;8,844;0,1625;3,7391;0;5;42
+random_forest;log;{'max_depth': 20, 'max_features': 'sqrt', 'max_samples': 0.5, 'min_samples_leaf': 1, 'n_estimators': 300};;25576;3,7227;8,7645;0,1775;3,7227;0;3;42
+random_forest;log;{'max_depth': 20, 'max_features': 'sqrt', 'max_samples': 0.5, 'min_samples_leaf': 2, 'n_estimators': 300};;25576;3,7523;8,8525;0,1609;3,7523;0;3;42
+random_forest;log;{'max_depth': 20, 'max_features': 0.1, 'max_samples': None, 'min_samples_leaf': 1, 'n_estimators': 300};;25576;3,5671;8,3454;0,2543;3,5671;0;10;42
+random_forest;log;{'max_depth': 20, 'max_features': 0.1, 'max_samples': None, 'min_samples_leaf': 2, 'n_estimators': 300};;25576;3,5709;8,39;0,2463;3,5709;0;10;42
+random_forest;log;{'max_depth': 20, 'max_features': 0.1, 'max_samples': 0.5, 'min_samples_leaf': 1, 'n_estimators': 300};;25576;3,5718;8,3711;0,2497;3,5718;0;6;42
+random_forest;log;{'max_depth': 20, 'max_features': 0.1, 'max_samples': 0.5, 'min_samples_leaf': 2, 'n_estimators': 300};;25576;3,5762;8,4092;0,2428;3,5762;0;6;42
+random_forest;log;{'max_depth': 20, 'max_features': 0.33, 'max_samples': None, 'min_samples_leaf': 1, 'n_estimators': 300};;25576;3,5304;8,2224;0,2761;3,5304;0;24;42
+random_forest;log;{'max_depth': 20, 'max_features': 0.33, 'max_samples': None, 'min_samples_leaf': 2, 'n_estimators': 300};;25576;3,5299;8,2638;0,2688;3,5299;0;24;42
+random_forest;log;{'max_depth': 20, 'max_features': 0.33, 'max_samples': 0.5, 'min_samples_leaf': 1, 'n_estimators': 300};;25576;3,5322;8,2643;0,2687;3,5322;0;14;42
+random_forest;log;{'max_depth': 20, 'max_features': 0.33, 'max_samples': 0.5, 'min_samples_leaf': 2, 'n_estimators': 300};;25576;3,5302;8,2967;0,263;3,5302;0;14;42
+random_forest;log;{'max_depth': None, 'max_features': 'sqrt', 'max_samples': None, 'min_samples_leaf': 1, 'n_estimators': 300};;25576;3,4568;8,2231;0,276;3,4568;0;9;42
+random_forest;log;{'max_depth': None, 'max_features': 'sqrt', 'max_samples': None, 'min_samples_leaf': 2, 'n_estimators': 300};;25576;3,4807;8,4079;0,2431;3,4807;0;7;42
+random_forest;log;{'max_depth': None, 'max_features': 'sqrt', 'max_samples': 0.5, 'min_samples_leaf': 1, 'n_estimators': 300};;25576;3,4537;8,2501;0,2712;3,4537;0;5;42
+random_forest;log;{'max_depth': None, 'max_features': 'sqrt', 'max_samples': 0.5, 'min_samples_leaf': 2, 'n_estimators': 300};;25576;3,5136;8,4575;0,2341;3,5136;0;4;42
+random_forest;log;{'max_depth': None, 'max_features': 0.1, 'max_samples': None, 'min_samples_leaf': 1, 'n_estimators': 300};;25576;3,4594;8,1746;0,2845;3,4594;0;14;42
+random_forest;log;{'max_depth': None, 'max_features': 0.1, 'max_samples': None, 'min_samples_leaf': 2, 'n_estimators': 300};;25576;3,4389;8,2022;0,2796;3,4389;0;13;42
+random_forest;log;{'max_depth': None, 'max_features': 0.1, 'max_samples': 0.5, 'min_samples_leaf': 1, 'n_estimators': 300};;25576;3,4476;8,2004;0,28;3,4476;0;8;42
+random_forest;log;{'max_depth': None, 'max_features': 0.1, 'max_samples': 0.5, 'min_samples_leaf': 2, 'n_estimators': 300};;25576;3,4541;8,2522;0,2708;3,4541;0;7;42
+random_forest;log;{'max_depth': None, 'max_features': 0.33, 'max_samples': None, 'min_samples_leaf': 1, 'n_estimators': 300};;25576;3,4787;8,1388;0,2907;3,4787;0;30;42
+random_forest;log;{'max_depth': None, 'max_features': 0.33, 'max_samples': None, 'min_samples_leaf': 2, 'n_estimators': 300};;25576;3,4677;8,1728;0,2848;3,4677;0;31;42
+random_forest;log;{'max_depth': None, 'max_features': 0.33, 'max_samples': 0.5, 'min_samples_leaf': 1, 'n_estimators': 300};;25576;3,453;8,1749;0,2844;3,453;0;17;42
+random_forest;log;{'max_depth': None, 'max_features': 0.33, 'max_samples': 0.5, 'min_samples_leaf': 2, 'n_estimators': 300};;25576;3,4637;8,217;0,277;3,4637;0;16;42
+xgboost;log;{'colsample_bytree': 0.3, 'learning_rate': 0.05, 'max_depth': 6, 'min_child_weight': 1, 'subsample': 1.0};1791;25576;3,4232;8,1467;0,2894;3,4237;134;17;42
+xgboost;log;{'colsample_bytree': 0.3, 'learning_rate': 0.05, 'max_depth': 6, 'min_child_weight': 5, 'subsample': 1.0};1684;25576;3,4319;8,1814;0,2833;3,4324;132;16;42
+xgboost;log;{'colsample_bytree': 0.3, 'learning_rate': 0.05, 'max_depth': 9, 'min_child_weight': 1, 'subsample': 1.0};1241;25576;3,4204;8,0918;0,2989;3,4208;137;14;42
+xgboost;log;{'colsample_bytree': 0.3, 'learning_rate': 0.05, 'max_depth': 9, 'min_child_weight': 5, 'subsample': 1.0};1048;25576;3,4263;8,1529;0,2883;3,4267;138;12;42
+xgboost;log;{'colsample_bytree': 0.3, 'learning_rate': 0.1, 'max_depth': 6, 'min_child_weight': 1, 'subsample': 1.0};997;25576;3,4246;8,1457;0,2895;3,4252;138;10;42
+xgboost;log;{'colsample_bytree': 0.3, 'learning_rate': 0.1, 'max_depth': 6, 'min_child_weight': 5, 'subsample': 1.0};865;25576;3,4333;8,1968;0,2806;3,4339;145;9;42
+xgboost;log;{'colsample_bytree': 0.3, 'learning_rate': 0.1, 'max_depth': 9, 'min_child_weight': 1, 'subsample': 1.0};539;25576;3,4337;8,0991;0,2976;3,4341;141;6;42
+xgboost;log;{'colsample_bytree': 0.3, 'learning_rate': 0.1, 'max_depth': 9, 'min_child_weight': 5, 'subsample': 1.0};517;25576;3,4432;8,1886;0,282;3,4437;153;6;42
+xgboost;log;{'colsample_bytree': 0.5, 'learning_rate': 0.05, 'max_depth': 6, 'min_child_weight': 1, 'subsample': 1.0};1564;25576;3,4278;8,1279;0,2926;3,4282;121;15;42
+xgboost;log;{'colsample_bytree': 0.5, 'learning_rate': 0.05, 'max_depth': 6, 'min_child_weight': 5, 'subsample': 1.0};1835;25576;3,4242;8,1186;0,2943;3,4247;128;18;42
+xgboost;log;{'colsample_bytree': 0.5, 'learning_rate': 0.05, 'max_depth': 9, 'min_child_weight': 1, 'subsample': 1.0};984;25576;3,4325;8,1359;0,2912;3,4329;124;11;42
+xgboost;log;{'colsample_bytree': 0.5, 'learning_rate': 0.05, 'max_depth': 9, 'min_child_weight': 5, 'subsample': 1.0};951;25576;3,4401;8,1664;0,2859;3,4405;115;11;42
+xgboost;log;{'colsample_bytree': 0.5, 'learning_rate': 0.1, 'max_depth': 6, 'min_child_weight': 1, 'subsample': 1.0};925;25576;3,4175;8,0789;0,3011;3,418;137;10;42
+xgboost;log;{'colsample_bytree': 0.5, 'learning_rate': 0.1, 'max_depth': 6, 'min_child_weight': 5, 'subsample': 1.0};1059;25576;3,4238;8,1358;0,2913;3,4245;151;11;42
+xgboost;log;{'colsample_bytree': 0.5, 'learning_rate': 0.1, 'max_depth': 9, 'min_child_weight': 1, 'subsample': 1.0};444;25576;3,4503;8,1677;0,2857;3,4507;122;5;42
+xgboost;log;{'colsample_bytree': 0.5, 'learning_rate': 0.1, 'max_depth': 9, 'min_child_weight': 5, 'subsample': 1.0};542;25576;3,4298;8,1028;0,297;3,4303;136;6;42
+xgboost;log;{'colsample_bytree': 0.8, 'learning_rate': 0.05, 'max_depth': 6, 'min_child_weight': 1, 'subsample': 1.0};1631;25576;3,4315;8,1077;0,2961;3,432;122;16;42
+xgboost;log;{'colsample_bytree': 0.8, 'learning_rate': 0.05, 'max_depth': 6, 'min_child_weight': 5, 'subsample': 1.0};1417;25576;3,4306;8,1331;0,2917;3,4311;117;14;42
+xgboost;log;{'colsample_bytree': 0.8, 'learning_rate': 0.05, 'max_depth': 9, 'min_child_weight': 1, 'subsample': 1.0};881;25576;3,4492;8,1327;0,2918;3,4496;101;10;42
+xgboost;log;{'colsample_bytree': 0.8, 'learning_rate': 0.05, 'max_depth': 9, 'min_child_weight': 5, 'subsample': 1.0};650;25576;3,4526;8,2045;0,2792;3,453;105;7;42
+xgboost;log;{'colsample_bytree': 0.8, 'learning_rate': 0.1, 'max_depth': 6, 'min_child_weight': 1, 'subsample': 1.0};776;25576;3,4409;8,1574;0,2875;3,4414;119;8;42
+xgboost;log;{'colsample_bytree': 0.8, 'learning_rate': 0.1, 'max_depth': 6, 'min_child_weight': 5, 'subsample': 1.0};848;25576;3,4334;8,135;0,2914;3,434;136;9;42
+xgboost;log;{'colsample_bytree': 0.8, 'learning_rate': 0.1, 'max_depth': 9, 'min_child_weight': 1, 'subsample': 1.0};329;25576;3,451;8,1087;0,296;3,4513;110;4;42
+xgboost;log;{'colsample_bytree': 0.8, 'learning_rate': 0.1, 'max_depth': 9, 'min_child_weight': 5, 'subsample': 1.0};452;25576;3,45;8,1241;0,2933;3,4505;136;5;42
+mlp;log;{'activation': 'relu', 'alpha': 0.01, 'hidden_layer_sizes': (64,), 'learning_rate_init': 0.001, 'relu_na_saida': False};6;25576;3,4482;8,1519;0,2885;3,4492;289;10;42
+mlp;log;{'activation': 'relu', 'alpha': 0.01, 'hidden_layer_sizes': (64,), 'learning_rate_init': 0.001, 'relu_na_saida': True};6;25576;3,447;8,1659;0,286;3,447;0;10;42
+mlp;log;{'activation': 'relu', 'alpha': 0.01, 'hidden_layer_sizes': (64,), 'learning_rate_init': 0.0001, 'relu_na_saida': False};66;25576;3,4358;8,1474;0,2892;3,4367;256;33;42
+mlp;log;{'activation': 'relu', 'alpha': 0.01, 'hidden_layer_sizes': (64,), 'learning_rate_init': 0.0001, 'relu_na_saida': True};44;25576;3,4336;8,1769;0,2841;3,4336;0;24;42
+mlp;log;{'activation': 'relu', 'alpha': 0.01, 'hidden_layer_sizes': (128, 64), 'learning_rate_init': 0.001, 'relu_na_saida': False};3;25576;3,4773;8,2331;0,2742;3,4779;248;13;42
+mlp;log;{'activation': 'relu', 'alpha': 0.01, 'hidden_layer_sizes': (128, 64), 'learning_rate_init': 0.001, 'relu_na_saida': True};3;25576;3,4741;8,2338;0,2741;3,4741;0;13;42
+mlp;log;{'activation': 'relu', 'alpha': 0.01, 'hidden_layer_sizes': (128, 64), 'learning_rate_init': 0.0001, 'relu_na_saida': False};17;25576;3,4613;8,1958;0,2808;3,4619;235;21;42
+mlp;log;{'activation': 'relu', 'alpha': 0.01, 'hidden_layer_sizes': (128, 64), 'learning_rate_init': 0.0001, 'relu_na_saida': True};17;25576;3,4588;8,1863;0,2824;3,4588;0;21;42
+mlp;log;{'activation': 'relu', 'alpha': 0.1, 'hidden_layer_sizes': (64,), 'learning_rate_init': 0.001, 'relu_na_saida': False};14;25576;3,4429;8,1573;0,2875;3,4435;214;13;42
+mlp;log;{'activation': 'relu', 'alpha': 0.1, 'hidden_layer_sizes': (64,), 'learning_rate_init': 0.001, 'relu_na_saida': True};14;25576;3,4405;8,1586;0,2873;3,4405;0;13;42
+mlp;log;{'activation': 'relu', 'alpha': 0.1, 'hidden_layer_sizes': (64,), 'learning_rate_init': 0.0001, 'relu_na_saida': False};105;25576;3,4262;8,1728;0,2848;3,427;237;47;42
+mlp;log;{'activation': 'relu', 'alpha': 0.1, 'hidden_layer_sizes': (64,), 'learning_rate_init': 0.0001, 'relu_na_saida': True};105;25576;3,4258;8,1694;0,2854;3,4258;0;48;42
+mlp;log;{'activation': 'relu', 'alpha': 0.1, 'hidden_layer_sizes': (128, 64), 'learning_rate_init': 0.001, 'relu_na_saida': False};3;25576;3,4821;8,2533;0,2706;3,4826;204;13;42
+mlp;log;{'activation': 'relu', 'alpha': 0.1, 'hidden_layer_sizes': (128, 64), 'learning_rate_init': 0.001, 'relu_na_saida': True};3;25576;3,48;8,248;0,2716;3,48;0;13;42
+mlp;log;{'activation': 'relu', 'alpha': 0.1, 'hidden_layer_sizes': (128, 64), 'learning_rate_init': 0.0001, 'relu_na_saida': False};17;25576;3,4535;8,1983;0,2803;3,454;183;21;42
+mlp;log;{'activation': 'relu', 'alpha': 0.1, 'hidden_layer_sizes': (128, 64), 'learning_rate_init': 0.0001, 'relu_na_saida': True};17;25576;3,451;8,1905;0,2817;3,451;0;22;42
+mlp;log;{'activation': 'relu', 'alpha': 1.0, 'hidden_layer_sizes': (64,), 'learning_rate_init': 0.001, 'relu_na_saida': False};59;25576;3,542;8,4557;0,2344;3,5421;50;30;42
+mlp;log;{'activation': 'relu', 'alpha': 1.0, 'hidden_layer_sizes': (64,), 'learning_rate_init': 0.001, 'relu_na_saida': True};59;25576;3,5419;8,4564;0,2343;3,5419;0;30;42
+mlp;log;{'activation': 'relu', 'alpha': 1.0, 'hidden_layer_sizes': (64,), 'learning_rate_init': 0.0001, 'relu_na_saida': False};156;25576;3,5269;8,4317;0,2388;3,5269;35;69;42
+mlp;log;{'activation': 'relu', 'alpha': 1.0, 'hidden_layer_sizes': (64,), 'learning_rate_init': 0.0001, 'relu_na_saida': True};156;25576;3,5263;8,4305;0,239;3,5263;0;69;42
+mlp;log;{'activation': 'relu', 'alpha': 1.0, 'hidden_layer_sizes': (128, 64), 'learning_rate_init': 0.001, 'relu_na_saida': False};27;25576;3,4893;8,3501;0,2534;3,4893;28;27;42
+mlp;log;{'activation': 'relu', 'alpha': 1.0, 'hidden_layer_sizes': (128, 64), 'learning_rate_init': 0.001, 'relu_na_saida': True};27;25576;3,4848;8,3481;0,2538;3,4848;0;27;42
+mlp;log;{'activation': 'relu', 'alpha': 1.0, 'hidden_layer_sizes': (128, 64), 'learning_rate_init': 0.0001, 'relu_na_saida': False};124;25576;3,4473;8,2763;0,2666;3,4474;48;86;42
+mlp;log;{'activation': 'relu', 'alpha': 1.0, 'hidden_layer_sizes': (128, 64), 'learning_rate_init': 0.0001, 'relu_na_saida': True};154;25576;3,4419;8,2465;0,2719;3,4419;0;104;42
+mlp;log;{'activation': 'relu', 'alpha': 3.0, 'hidden_layer_sizes': (64,), 'learning_rate_init': 0.001, 'relu_na_saida': False};14;25576;3,7111;8,9117;0,1496;3,7111;0;13;42
+mlp;log;{'activation': 'relu', 'alpha': 3.0, 'hidden_layer_sizes': (64,), 'learning_rate_init': 0.001, 'relu_na_saida': True};14;25576;3,7101;8,9088;0,1502;3,7101;0;13;42
+mlp;log;{'activation': 'relu', 'alpha': 3.0, 'hidden_layer_sizes': (64,), 'learning_rate_init': 0.0001, 'relu_na_saida': False};69;25576;3,7067;8,8953;0,1528;3,7067;0;35;42
+mlp;log;{'activation': 'relu', 'alpha': 3.0, 'hidden_layer_sizes': (64,), 'learning_rate_init': 0.0001, 'relu_na_saida': True};69;25576;3,7064;8,8949;0,1528;3,7064;0;35;42
+mlp;log;{'activation': 'relu', 'alpha': 3.0, 'hidden_layer_sizes': (128, 64), 'learning_rate_init': 0.001, 'relu_na_saida': False};35;25576;3,6419;8,5903;0,2099;3,6419;0;36;42
+mlp;log;{'activation': 'relu', 'alpha': 3.0, 'hidden_layer_sizes': (128, 64), 'learning_rate_init': 0.001, 'relu_na_saida': True};35;25576;3,6401;8,622;0,204;3,6401;0;36;42
+mlp;log;{'activation': 'relu', 'alpha': 3.0, 'hidden_layer_sizes': (128, 64), 'learning_rate_init': 0.0001, 'relu_na_saida': False};125;25576;3,6271;8,7086;0,188;3,6271;0;93;42
+mlp;log;{'activation': 'relu', 'alpha': 3.0, 'hidden_layer_sizes': (128, 64), 'learning_rate_init': 0.0001, 'relu_na_saida': True};125;25576;3,6279;8,7117;0,1874;3,6279;0;93;42
+mlp;log;{'activation': 'tanh', 'alpha': 0.01, 'hidden_layer_sizes': (64,), 'learning_rate_init': 0.001, 'relu_na_saida': False};55;25576;3,4405;8,2046;0,2792;3,4419;313;32;42
+mlp;log;{'activation': 'tanh', 'alpha': 0.01, 'hidden_layer_sizes': (64,), 'learning_rate_init': 0.001, 'relu_na_saida': True};55;25576;3,4403;8,2027;0,2796;3,4403;0;30;42
+mlp;log;{'activation': 'tanh', 'alpha': 0.01, 'hidden_layer_sizes': (64,), 'learning_rate_init': 0.0001, 'relu_na_saida': False};43;25576;3,5269;8,3231;0,2583;3,5277;204;26;42
+mlp;log;{'activation': 'tanh', 'alpha': 0.01, 'hidden_layer_sizes': (64,), 'learning_rate_init': 0.0001, 'relu_na_saida': True};43;25576;3,5243;8,3223;0,2584;3,5243;0;26;42
+mlp;log;{'activation': 'tanh', 'alpha': 0.01, 'hidden_layer_sizes': (128, 64), 'learning_rate_init': 0.001, 'relu_na_saida': False};13;25576;3,4439;8,1652;0,2861;3,445;281;21;42
+mlp;log;{'activation': 'tanh', 'alpha': 0.01, 'hidden_layer_sizes': (128, 64), 'learning_rate_init': 0.001, 'relu_na_saida': True};12;25576;3,4426;8,2343;0,274;3,4426;0;21;42
+mlp;log;{'activation': 'tanh', 'alpha': 0.01, 'hidden_layer_sizes': (128, 64), 'learning_rate_init': 0.0001, 'relu_na_saida': False};118;25576;3,4407;8,1829;0,283;3,442;349;88;42
+mlp;log;{'activation': 'tanh', 'alpha': 0.01, 'hidden_layer_sizes': (128, 64), 'learning_rate_init': 0.0001, 'relu_na_saida': True};118;25576;3,441;8,1809;0,2834;3,441;0;89;42
+mlp;log;{'activation': 'tanh', 'alpha': 0.1, 'hidden_layer_sizes': (64,), 'learning_rate_init': 0.001, 'relu_na_saida': False};126;25576;3,4443;8,1719;0,285;3,4449;169;58;42
+mlp;log;{'activation': 'tanh', 'alpha': 0.1, 'hidden_layer_sizes': (64,), 'learning_rate_init': 0.001, 'relu_na_saida': True};126;25576;3,4401;8,1568;0,2876;3,4401;0;59;42
+mlp;log;{'activation': 'tanh', 'alpha': 0.1, 'hidden_layer_sizes': (64,), 'learning_rate_init': 0.0001, 'relu_na_saida': False};66;25576;3,5255;8,3337;0,2564;3,526;177;34;42
+mlp;log;{'activation': 'tanh', 'alpha': 0.1, 'hidden_layer_sizes': (64,), 'learning_rate_init': 0.0001, 'relu_na_saida': True};66;25576;3,5229;8,3321;0,2567;3,5229;0;35;42
+mlp;log;{'activation': 'tanh', 'alpha': 0.1, 'hidden_layer_sizes': (128, 64), 'learning_rate_init': 0.001, 'relu_na_saida': False};83;25576;3,4411;8,1992;0,2802;3,4421;269;66;42
+mlp;log;{'activation': 'tanh', 'alpha': 0.1, 'hidden_layer_sizes': (128, 64), 'learning_rate_init': 0.001, 'relu_na_saida': True};83;25576;3,4423;8,2046;0,2792;3,4423;0;66;42
+mlp;log;{'activation': 'tanh', 'alpha': 0.1, 'hidden_layer_sizes': (128, 64), 'learning_rate_init': 0.0001, 'relu_na_saida': False};229;25576;3,4591;8,226;0,2755;3,4597;191;159;42
+mlp;log;{'activation': 'tanh', 'alpha': 0.1, 'hidden_layer_sizes': (128, 64), 'learning_rate_init': 0.0001, 'relu_na_saida': True};229;25576;3,4591;8,2221;0,2762;3,4591;0;160;42
+mlp;log;{'activation': 'tanh', 'alpha': 1.0, 'hidden_layer_sizes': (64,), 'learning_rate_init': 0.001, 'relu_na_saida': False};30;25576;3,6031;8,5052;0,2254;3,6032;17;20;42
+mlp;log;{'activation': 'tanh', 'alpha': 1.0, 'hidden_layer_sizes': (64,), 'learning_rate_init': 0.001, 'relu_na_saida': True};30;25576;3,6025;8,5048;0,2255;3,6025;0;20;42
+mlp;log;{'activation': 'tanh', 'alpha': 1.0, 'hidden_layer_sizes': (64,), 'learning_rate_init': 0.0001, 'relu_na_saida': False};68;25576;3,5835;8,5239;0,222;3,5837;58;35;42
+mlp;log;{'activation': 'tanh', 'alpha': 1.0, 'hidden_layer_sizes': (64,), 'learning_rate_init': 0.0001, 'relu_na_saida': True};68;25576;3,5829;8,5234;0,2221;3,5829;0;35;42
+mlp;log;{'activation': 'tanh', 'alpha': 1.0, 'hidden_layer_sizes': (128, 64), 'learning_rate_init': 0.001, 'relu_na_saida': False};53;25576;3,5576;8,4777;0,2305;3,5578;84;46;42
+mlp;log;{'activation': 'tanh', 'alpha': 1.0, 'hidden_layer_sizes': (128, 64), 'learning_rate_init': 0.001, 'relu_na_saida': True};48;25576;3,556;8,4349;0,2382;3,556;0;44;42
+mlp;log;{'activation': 'tanh', 'alpha': 1.0, 'hidden_layer_sizes': (128, 64), 'learning_rate_init': 0.0001, 'relu_na_saida': False};75;25576;3,5522;8,4176;0,2413;3,5524;79;61;42
+mlp;log;{'activation': 'tanh', 'alpha': 1.0, 'hidden_layer_sizes': (128, 64), 'learning_rate_init': 0.0001, 'relu_na_saida': True};75;25576;3,5502;8,4137;0,242;3,5502;0;61;42
+mlp;log;{'activation': 'tanh', 'alpha': 3.0, 'hidden_layer_sizes': (64,), 'learning_rate_init': 0.001, 'relu_na_saida': False};14;25576;3,7361;8,9636;0,1397;3,7361;0;14;42
+mlp;log;{'activation': 'tanh', 'alpha': 3.0, 'hidden_layer_sizes': (64,), 'learning_rate_init': 0.001, 'relu_na_saida': True};14;25576;3,7365;8,9648;0,1395;3,7365;0;14;42
+mlp;log;{'activation': 'tanh', 'alpha': 3.0, 'hidden_layer_sizes': (64,), 'learning_rate_init': 0.0001, 'relu_na_saida': False};32;25576;3,7237;8,9578;0,1408;3,7237;0;21;42
+mlp;log;{'activation': 'tanh', 'alpha': 3.0, 'hidden_layer_sizes': (64,), 'learning_rate_init': 0.0001, 'relu_na_saida': True};32;25576;3,724;8,9571;0,1409;3,724;0;21;42
+mlp;log;{'activation': 'tanh', 'alpha': 3.0, 'hidden_layer_sizes': (128, 64), 'learning_rate_init': 0.001, 'relu_na_saida': False};35;25576;3,677;8,6534;0,1982;3,677;1;35;42
+mlp;log;{'activation': 'tanh', 'alpha': 3.0, 'hidden_layer_sizes': (128, 64), 'learning_rate_init': 0.001, 'relu_na_saida': True};35;25576;3,6761;8,6528;0,1983;3,6761;0;35;42
+mlp;log;{'activation': 'tanh', 'alpha': 3.0, 'hidden_layer_sizes': (128, 64), 'learning_rate_init': 0.0001, 'relu_na_saida': False};37;25576;3,666;8,7683;0,1768;3,666;5;36;42
+mlp;log;{'activation': 'tanh', 'alpha': 3.0, 'hidden_layer_sizes': (128, 64), 'learning_rate_init': 0.0001, 'relu_na_saida': True};37;25576;3,6659;8,7681;0,1768;3,6659;0;37;42

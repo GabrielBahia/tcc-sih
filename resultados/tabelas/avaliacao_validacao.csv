@@ -1,0 +1,10 @@
+modelo;treino;parametros;parada;n;mae;rmse;r2;mae_sem_troca;rmse_sem_troca;r2_sem_troca;negativos;soma_prevista_sobre_real
+literatura;;;;;1,4 a 3;2,1 a 3,8;0,15 a 0,45;;;;;
+regressao_linear;dias;{};;25576;4,0438;8,1829;0,283;4,0617;8,188;0,2821;586;1,0565
+regressao_linear;log;{};;25576;3,538;8,3069;0,2611;3,5388;8,3069;0,2611;181;0,7648
+random_forest;dias;{'max_depth': None, 'max_features': 0.1, 'max_samples': 0.5, 'min_samples_leaf': 1, 'n_estimators': 300};;25576;3,7891;8,1479;0,2891;3,7891;8,1479;0,2891;0;1,0368
+random_forest;log;{'max_depth': None, 'max_features': 0.1, 'max_samples': None, 'min_samples_leaf': 2, 'n_estimators': 300};;25576;3,4389;8,2022;0,2796;3,4389;8,2022;0,2796;0;0,7584
+xgboost;dias;{'colsample_bytree': 0.5, 'learning_rate': 0.05, 'max_depth': 6, 'min_child_weight': 5, 'subsample': 1.0};1027,0;25576;3,8886;8,1577;0,2874;3,8903;8,1578;0,2874;122;1,0561
+xgboost;log;{'colsample_bytree': 0.5, 'learning_rate': 0.1, 'max_depth': 6, 'min_child_weight': 1, 'subsample': 1.0};925,0;25576;3,4175;8,0789;0,3011;3,418;8,0789;0,3011;137;0,7738
+mlp;dias;{'activation': 'relu', 'alpha': 3.0, 'hidden_layer_sizes': (128, 64), 'learning_rate_init': 0.001, 'relu_na_saida': False};11,0;25576;3,698;7,9387;0,3252;3,7015;7,9388;0,3252;320;0,9132
+mlp;log;{'activation': 'relu', 'alpha': 0.1, 'hidden_layer_sizes': (64,), 'learning_rate_init': 0.0001, 'relu_na_saida': True};105,0;25576;3,4258;8,1694;0,2854;3,4258;8,1694;0,2854;0;0,7644

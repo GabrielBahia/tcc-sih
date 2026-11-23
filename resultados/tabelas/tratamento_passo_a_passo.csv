@@ -1,0 +1,10 @@
+﻿regra;antes;saiu;depois;los_medio;los_mediano;los_max
+0. base da janela;112112;0;112112;8,94;3,0;845
+1. consolidar AIH de continuacao;112112;2315;109797;6,55;3,0;845
+2. retirar internacoes que cruzam a borda;109797;720;109077;6,29;3,0;511
+3. excluir internacoes sem desfecho;109077;591;108486;6,26;3,0;511
+4. excluir hospitais de permanencia constante;108486;502;107984;6,29;3,0;511
+5. excluir obitos;107984;5601;102383;5,97;3,0;511
+6. recalcular idade pelo NASC;102383;0;102383;5,97;3,0;511
+7. agrupar o CID na Lista de Morbidade;102383;0;102383;5,97;3,0;511
+8. manter so as colunas da admissao;102383;0;102383;5,97;3,0;511

@@ -1,0 +1,17 @@
+dados/*
+!dados/05_auxiliar/
+dados/05_auxiliar/*
+!dados/05_auxiliar/lista_morbidade.json
+logs/
+
+resultados/tabelas/previsoes_*.csv
+resultados/tabelas/explicacao_amostra_*.csv
+resultados/tabelas/experimentos.csv
+resultados/tabelas/painel.csv
+
+__pycache__/
+*.pyc
+.venv/
+
+Thumbs.db
+desktop.ini

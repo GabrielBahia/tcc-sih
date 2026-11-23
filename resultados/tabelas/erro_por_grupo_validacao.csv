@@ -1,0 +1,193 @@
+modelo;treino;grupo;valor;n;mae;vies
+regressao_linear;dias;especialidade;01;10672;2,7234;0,2481
+regressao_linear;dias;especialidade;02;2673;1,6449;-0,134
+regressao_linear;dias;especialidade;03;9661;5,0457;0,3237
+regressao_linear;dias;especialidade;04;155;49,799;17,2071
+regressao_linear;dias;especialidade;05;104;7,4941;-1,8819
+regressao_linear;dias;especialidade;06;8;12,9164;7,6824
+regressao_linear;dias;especialidade;07;1861;5,667;0,3907
+regressao_linear;dias;especialidade;09;217;0,5721;0,5502
+regressao_linear;dias;especialidade;12;10;5,0003;1,6871
+regressao_linear;dias;especialidade;87;215;8,8128;-0,5962
+regressao_linear;dias;hospital;2111624;2318;5,6866;0,7207
+regressao_linear;dias;hospital;2153025;723;4,4664;1,8007
+regressao_linear;dias;hospital;2153084;6161;3,3341;-0,0021
+regressao_linear;dias;hospital;2153106;1335;1,7119;0,039
+regressao_linear;dias;hospital;2153114;1672;2,8718;0,3211
+regressao_linear;dias;hospital;2153882;4368;4,4011;0,4769
+regressao_linear;dias;hospital;2208156;2723;4,5809;0,0627
+regressao_linear;dias;hospital;2218798;2815;3,7429;0,1652
+regressao_linear;dias;hospital;2221756;777;15,1946;2,4502
+regressao_linear;dias;hospital;2221772;2659;1,9871;0,2076
+regressao_linear;dias;hospital;3013588;25;2,4408;-1,5518
+regressao_linear;dias;faixa;até 3 dias;13970;2,5921;2,2206
+regressao_linear;dias;faixa;4 a 14 dias;9263;3,4477;0,7779
+regressao_linear;dias;faixa;15 ou mais;2343;15,056;-12,6086
+regressao_linear;log;especialidade;01;10672;2,3049;-0,8489
+regressao_linear;log;especialidade;02;2673;1,2805;-0,5005
+regressao_linear;log;especialidade;03;9661;4,5551;-1,8745
+regressao_linear;log;especialidade;04;155;38,5306;-16,3529
+regressao_linear;log;especialidade;05;104;7,3119;-5,0162
+regressao_linear;log;especialidade;06;8;10,5159;0,6734
+regressao_linear;log;especialidade;07;1861;5,1599;-2,0163
+regressao_linear;log;especialidade;09;217;0,1616;0,1285
+regressao_linear;log;especialidade;12;10;3,7302;-0,2953
+regressao_linear;log;especialidade;87;215;9,1614;-4,1281
+regressao_linear;log;hospital;2111624;2318;4,7575;-2,1272
+regressao_linear;log;hospital;2153025;723;3,7572;-0,3269
+regressao_linear;log;hospital;2153084;6161;3,1174;-1,3307
+regressao_linear;log;hospital;2153106;1335;1,4252;-0,2819
+regressao_linear;log;hospital;2153114;1672;2,5377;-0,7328
+regressao_linear;log;hospital;2153882;4368;3,8965;-1,372
+regressao_linear;log;hospital;2208156;2723;3,8886;-1,9731
+regressao_linear;log;hospital;2218798;2815;3,302;-1,3918
+regressao_linear;log;hospital;2221756;777;12,9801;-6,0497
+regressao_linear;log;hospital;2221772;2659;1,6289;-0,4347
+regressao_linear;log;hospital;3013588;25;2,8871;-2,6396
+regressao_linear;log;faixa;até 3 dias;13970;1,5025;1,2224
+regressao_linear;log;faixa;4 a 14 dias;9263;3,0653;-1,4183
+regressao_linear;log;faixa;15 ou mais;2343;17,544;-17,1203
+random_forest;dias;especialidade;01;10672;2,4282;0,0557
+random_forest;dias;especialidade;02;2673;1,2297;-0,0876
+random_forest;dias;especialidade;03;9661;4,9125;0,217
+random_forest;dias;especialidade;04;155;51,8999;18,3418
+random_forest;dias;especialidade;05;104;4,9776;-2,2315
+random_forest;dias;especialidade;06;8;13,1163;4,5329
+random_forest;dias;especialidade;07;1861;5,1554;0,3263
+random_forest;dias;especialidade;09;217;0,1905;0,1549
+random_forest;dias;especialidade;12;10;5,98;3,63
+random_forest;dias;especialidade;87;215;8,7762;-0,589
+random_forest;dias;hospital;2111624;2318;5,0458;0,3514
+random_forest;dias;hospital;2153025;723;4,4473;1,4707
+random_forest;dias;hospital;2153084;6161;3,1788;-0,022
+random_forest;dias;hospital;2153106;1335;1,4343;0,195
+random_forest;dias;hospital;2153114;1672;2,7522;0,3449
+random_forest;dias;hospital;2153882;4368;4,119;0,2673
+random_forest;dias;hospital;2208156;2723;4,1641;-0,2562
+random_forest;dias;hospital;2218798;2815;3,4655;-0,0143
+random_forest;dias;hospital;2221756;777;15,6328;2,9061
+random_forest;dias;hospital;2221772;2659;1,7029;0,1728
+random_forest;dias;hospital;3013588;25;5,4356;-2,8889
+random_forest;dias;faixa;até 3 dias;13970;2,1913;2,07
+random_forest;dias;faixa;4 a 14 dias;9263;3,3499;0,539
+random_forest;dias;faixa;15 ou mais;2343;15,0521;-12,0602
+random_forest;log;especialidade;01;10672;2,2458;-0,9214
+random_forest;log;especialidade;02;2673;1,187;-0,4716
+random_forest;log;especialidade;03;9661;4,4951;-1,9026
+random_forest;log;especialidade;04;155;37,3585;-17,4554
+random_forest;log;especialidade;05;104;5,4351;-4,1201
+random_forest;log;especialidade;06;8;10,8657;-1,7585
+random_forest;log;especialidade;07;1861;4,772;-1,9462
+random_forest;log;especialidade;09;217;0,1014;0,0662
+random_forest;log;especialidade;12;10;4,0145;-0,0217
+random_forest;log;especialidade;87;215;9,2975;-4,3396
+random_forest;log;hospital;2111624;2318;4,4859;-2,0317
+random_forest;log;hospital;2153025;723;3,7215;-0,4144
+random_forest;log;hospital;2153084;6161;3,0497;-1,3048
+random_forest;log;hospital;2153106;1335;1,3267;-0,3453
+random_forest;log;hospital;2153114;1672;2,492;-0,7419
+random_forest;log;hospital;2153882;4368;3,7849;-1,4002
+random_forest;log;hospital;2208156;2723;3,786;-2,1352
+random_forest;log;hospital;2218798;2815;3,2295;-1,4732
+random_forest;log;hospital;2221756;777;12,7579;-6,2422
+random_forest;log;hospital;2221772;2659;1,5392;-0,4947
+random_forest;log;hospital;3013588;25;7,9261;-6,8877
+random_forest;log;faixa;até 3 dias;13970;1,3876;1,1833
+random_forest;log;faixa;4 a 14 dias;9263;3,0103;-1,5048
+random_forest;log;faixa;15 ou mais;2343;17,3637;-16,9678
+xgboost;dias;especialidade;01;10672;2,5939;0,1959
+xgboost;dias;especialidade;02;2673;1,2608;-0,2025
+xgboost;dias;especialidade;03;9661;4,9679;0,4174
+xgboost;dias;especialidade;04;155;50,128;14,2245
+xgboost;dias;especialidade;05;104;5,3969;-1,5726
+xgboost;dias;especialidade;06;8;12,9445;3,882
+xgboost;dias;especialidade;07;1861;5,3598;0,5847
+xgboost;dias;especialidade;09;217;0,3843;0,3565
+xgboost;dias;especialidade;12;10;4,7883;0,9544
+xgboost;dias;especialidade;87;215;8,6856;-0,9203
+xgboost;dias;hospital;2111624;2318;5,4449;1,0431
+xgboost;dias;hospital;2153025;723;4,3703;1,4488
+xgboost;dias;hospital;2153084;6161;3,2423;-0,0297
+xgboost;dias;hospital;2153106;1335;1,6182;0,2831
+xgboost;dias;hospital;2153114;1672;2,738;0,3508
+xgboost;dias;hospital;2153882;4368;4,2567;0,4853
+xgboost;dias;hospital;2208156;2723;4,2873;0,0483
+xgboost;dias;hospital;2218798;2815;3,5581;0,0944
+xgboost;dias;hospital;2221756;777;15,188;2,052
+xgboost;dias;hospital;2221772;2659;1,8004;0,1151
+xgboost;dias;hospital;3013588;25;3,5414;-1,3245
+xgboost;dias;faixa;até 3 dias;13970;2,3965;2,2509
+xgboost;dias;faixa;4 a 14 dias;9263;3,2995;0,5698
+xgboost;dias;faixa;15 ou mais;2343;15,1142;-11,9894
+xgboost;log;especialidade;01;10672;2,2274;-0,8883
+xgboost;log;especialidade;02;2673;1,1918;-0,4919
+xgboost;log;especialidade;03;9661;4,4786;-1,7553
+xgboost;log;especialidade;04;155;36,4724;-16,8365
+xgboost;log;especialidade;05;104;5,3905;-3,9779
+xgboost;log;especialidade;06;8;10,6995;-2,2769
+xgboost;log;especialidade;07;1861;4,7386;-1,6667
+xgboost;log;especialidade;09;217;0,1112;0,0768
+xgboost;log;especialidade;12;10;4,0354;-0,2819
+xgboost;log;especialidade;87;215;9,2956;-4,2363
+xgboost;log;hospital;2111624;2318;4,4665;-1,7623
+xgboost;log;hospital;2153025;723;3,6365;-0,295
+xgboost;log;hospital;2153084;6161;3,0236;-1,2869
+xgboost;log;hospital;2153106;1335;1,3386;-0,2772
+xgboost;log;hospital;2153114;1672;2,449;-0,7301
+xgboost;log;hospital;2153882;4368;3,7697;-1,3031
+xgboost;log;hospital;2208156;2723;3,7998;-2,0005
+xgboost;log;hospital;2218798;2815;3,2059;-1,3629
+xgboost;log;hospital;2221756;777;12,6047;-5,86
+xgboost;log;hospital;2221772;2659;1,5682;-0,5071
+xgboost;log;hospital;3013588;25;4,4275;-3,9227
+xgboost;log;faixa;até 3 dias;13970;1,3978;1,1737
+xgboost;log;faixa;4 a 14 dias;9263;3,0497;-1,3644
+xgboost;log;faixa;15 ou mais;2343;16,9137;-16,4538
+mlp;dias;especialidade;01;10672;2,4341;-0,4244
+mlp;dias;especialidade;02;2673;1,3121;-0,6165
+mlp;dias;especialidade;03;9661;4,7397;-0,6314
+mlp;dias;especialidade;04;155;43,4396;7,7285
+mlp;dias;especialidade;05;104;5,1357;-2,8472
+mlp;dias;especialidade;06;8;12,887;5,9575
+mlp;dias;especialidade;07;1861;5,33;-0,7998
+mlp;dias;especialidade;09;217;0,2442;0,2074
+mlp;dias;especialidade;12;10;5,6502;2,6384
+mlp;dias;especialidade;87;215;8,8637;-2,8117
+mlp;dias;hospital;2111624;2318;5,0677;-0,6457
+mlp;dias;hospital;2153025;723;3,8302;0,0829
+mlp;dias;hospital;2153084;6161;3,1287;-0,8802
+mlp;dias;hospital;2153106;1335;1,4622;-0,4636
+mlp;dias;hospital;2153114;1672;2,5729;-0,5297
+mlp;dias;hospital;2153882;4368;4,125;-0,0293
+mlp;dias;hospital;2208156;2723;4,0572;-0,7257
+mlp;dias;hospital;2218798;2815;3,5436;-0,4238
+mlp;dias;hospital;2221756;777;13,9998;-1,1259
+mlp;dias;hospital;2221772;2659;1,6997;-0,2808
+mlp;dias;hospital;3013588;25;3,8194;-2,66
+mlp;dias;faixa;até 3 dias;13970;1,9141;1,5033
+mlp;dias;faixa;4 a 14 dias;9263;3,4024;-0,2256
+mlp;dias;faixa;15 ou mais;2343;15,5032;-13,769
+mlp;log;especialidade;01;10672;2,1983;-0,8974
+mlp;log;especialidade;02;2673;1,1876;-0,4684
+mlp;log;especialidade;03;9661;4,4729;-1,8294
+mlp;log;especialidade;04;155;37,6157;-17,2365
+mlp;log;especialidade;05;104;5,0856;-3,6632
+mlp;log;especialidade;06;8;10,4252;0,3091
+mlp;log;especialidade;07;1861;5,0185;-2,0632
+mlp;log;especialidade;09;217;0,0355;-0,0014
+mlp;log;especialidade;12;10;4,0036;-0,7299
+mlp;log;especialidade;87;215;9,0229;-3,9221
+mlp;log;hospital;2111624;2318;4,5244;-1,9268
+mlp;log;hospital;2153025;723;3,6084;-0,3758
+mlp;log;hospital;2153084;6161;3,0368;-1,3106
+mlp;log;hospital;2153106;1335;1,3139;-0,3625
+mlp;log;hospital;2153114;1672;2,4304;-0,829
+mlp;log;hospital;2153882;4368;3,7548;-1,339
+mlp;log;hospital;2208156;2723;3,772;-2,0971
+mlp;log;hospital;2218798;2815;3,25;-1,3057
+mlp;log;hospital;2221756;777;12,7441;-6,1116
+mlp;log;hospital;2221772;2659;1,5639;-0,5563
+mlp;log;hospital;3013588;25;4,4735;-3,9343
+mlp;log;faixa;até 3 dias;13970;1,3616;1,0843
+mlp;log;faixa;4 a 14 dias;9263;3,105;-1,3486
+mlp;log;faixa;15 ou mais;2343;17,0014;-16,6022
